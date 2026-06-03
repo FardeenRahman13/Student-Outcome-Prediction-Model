@@ -1,10 +1,10 @@
-# 🎓 Student Academic Outcome Prediction — CSE422 Machine Learning Project
+# Student Academic Outcome Prediction — CSE422 Machine Learning Project
 
 A machine learning project that predicts whether a student will **Graduate**, remain **Enrolled**, or **Drop Out** based on academic and demographic features. Built as part of the CSE422 (Machine Learning) course, this project covers the full ML pipeline — from raw data cleaning to model evaluation and comparison.
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Dataset](#dataset)
@@ -45,7 +45,7 @@ The dataset (`academic_success_dataset.csv`) contains student records with a mix
 - **Categorical features** — e.g., marital status, course, gender
 - **Target** — `Graduate`, `Dropout`, or `Enrolled`
 
-> ⚠️ Note: Two unnamed/empty columns (`Unnamed: 25`, `Unnamed: 26`) were present in the raw file and were dropped during cleaning.
+> Note: Two unnamed/empty columns (`Unnamed: 25`, `Unnamed: 26`) were present in the raw file and were dropped during cleaning.
 
 ---
 
